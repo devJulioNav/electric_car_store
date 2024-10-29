@@ -151,7 +151,7 @@ footer p {
     margin: .2rem;
 }
 
-@media (min-width: 576px) {
+@media (width >= 576px) {
 
     /* Sitio Web General */
     .websiteCarStore {
